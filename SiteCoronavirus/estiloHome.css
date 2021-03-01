@@ -1,0 +1,289 @@
+
+
+
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: unset;
+    background-color: rgb(211, 188, 211) ;
+    justify-content: space-between;
+}
+
+#cabecalhoHome{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+
+}
+
+#testeCorona{
+
+    display: flexbox;
+    justify-content: center;
+    margin-left: 22%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+
+#imgHome{
+    
+    padding-top: 2%;
+    display: flex;
+    margin: auto;
+    width: 1300px;
+    height: 300px;
+}
+
+#navBar{
+    
+    border: black 1px solid;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: blanchedalmond;
+    box-shadow: black 3px 3px 5px;
+    
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content:  center;
+}
+
+h3{
+    margin-top: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: rgb(10, 10, 143);
+}
+#tituloDestaque{
+    margin-top: 2%;
+
+}
+#imgCovid{
+    display: flex;
+    margin: auto;
+    width: 400px;
+    }
+
+#noticiaTxt{
+    text-align: justify;
+    display:flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content:space-around;
+    color: rgb(5, 12, 31);
+    margin:  auto;
+    
+
+}
+
+
+.noticiaDestaqueTxt{
+
+    background-color: blanchedalmond;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 15px;
+    border: black solid 3px;
+}   
+.noticiaDestaqueMp3{
+
+    
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 15px;
+    border: black solid 3px;
+}   
+
+#noticiaMp3{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: rgb(5, 40, 146);
+
+}
+#videoTxt{
+    color: rgb(5, 40, 146);
+    
+}
+#noticiaVideo{
+    display: flex;
+    justify-content:center;
+
+}
+
+.noticiaDestaqueVideo{
+    border: black solid 3px;
+    border-radius: 15px;
+    padding-right: 50px;
+
+}
+#videoTxt{
+    padding-left: 10%;
+
+}
+
+.noticiaDestaqueMP3{
+
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: auto;
+
+}
+
+.noticiaDestaqueVideo{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: blanchedalmond;
+
+}
+
+
+
+#cvRodrigo{
+    border: black 2px solid;
+    box-shadow: black 3px 3px 5px;
+    margin-top: 2%;
+    border-radius: 8px;
+    background-color: rgba(47, 197, 223, 0.123);
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#acesse{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-left: 40%;
+    display: flex;
+    flex-wrap: wrap;    
+
+}
+
+#icone{
+  
+    margin-top: 2%;
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+#linkedin{
+    width: 20%;
+    padding-left: 40%;
+   
+    
+}
+
+#git{
+    width: 20%;
+    padding-left: 40%;
+}
+
+
+#cvTxt{
+    padding-top: 15%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.minhaFoto{
+    padding: 1%;
+    margin: auto;
+    width: 40%;
+    border-radius: 40%;
+   
+
+
+}
+
+#formulario{    
+    border: black 2px solid;
+    box-shadow: black 3px 3px 5px;
+    margin-top: 1%;
+    border-radius: 8px;
+    background-color: rgba(47, 197, 223, 0.123);
+    display: flexbox;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 4%;
+   
+}
+
+form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(49, 49, 44);
+    font-style: oblique;
+    
+}
+
+#comentForm{
+   width: 60%;
+   line-height: 100px;
+   line-break: auto;
+   list-style-position: initial;
+}
+
+#txtCont{
+    margin-top: 2%;
+    margin-left: 3%;
+
+}
+
+input{
+    width: 30%;
+}
+
+#btnForm{
+    margin-top: 3%;
+
+}
+
+
+#fonte{
+    margin-top: 8%;
+}
+#fonteSite{
+    margin-top: 18%;
+
+
+}
